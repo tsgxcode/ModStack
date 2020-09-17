@@ -14,7 +14,7 @@ namespace ModStack
             string block2 = "Cyan";
             string block3 = "LighGray";
 
-            Console.Write("{3} {0} {1}", block1, block2, block3);
+            Console.WriteLine("{2} {0} {1}", block1, block2, block3);
         }
     }
 }
